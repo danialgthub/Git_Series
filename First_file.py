@@ -3,3 +3,6 @@
 
 # This is a comment.
 print("Hello, Git!")
+
+# This is a new comment.
+print("Who doesn't love merging and branching?")
